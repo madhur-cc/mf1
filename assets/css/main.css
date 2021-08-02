@@ -2357,6 +2357,7 @@ input, select, textarea {
 
 		.image img {
 			display: block;
+			max-width: 100%;
 		}
 
 		.image[data-position] img {
