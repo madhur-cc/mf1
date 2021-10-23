@@ -2357,6 +2357,7 @@ input, select, textarea {
 
 		.image img {
 			display: block;
+			max-width: 100%;
 		}
 
 		.image[data-position] img {
@@ -2543,6 +2544,7 @@ input, select, textarea {
 
 		ul li {
 			padding-left: 0.325rem;
+			margin-bottom: 1em;
 		}
 
 		ul.alt {
